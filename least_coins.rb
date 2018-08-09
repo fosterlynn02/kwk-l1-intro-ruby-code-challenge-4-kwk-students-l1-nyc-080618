@@ -1,7 +1,7 @@
 #write out your code here
 
 def least_coins(cents)
-[29] = total coins 
+[29] = tot 
 
 5 c
 
