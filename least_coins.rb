@@ -1,9 +1,9 @@
 #write out your code here
 
 def least_coins(cents)
-[29] = tot 
-
-5 c
+  
+  least_coins = 29
+   puts quater = 
 
 #Code your answer here!
 end
