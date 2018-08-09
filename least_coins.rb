@@ -2,8 +2,8 @@
 
 def least_coins(cents)
   
-  least_coins = 29
-   puts quater = 
+  least_coins = 29 cents 
+ least_coin_hash.each do [["quaters","25 cents"],[]
 
 #Code your answer here!
 end
